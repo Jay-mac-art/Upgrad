@@ -1,0 +1,22 @@
+/* Styles go here */
+body {
+  margin: 5%;
+  background-color: rgb(255, 255, 255);
+
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  border: 3px dotted red;
+  padding: 15px;
+}
+
+button {
+  margin-top: 2%;
+  border-radius: 10px;
+  background-color: white;
+  padding: 5px;
+}
